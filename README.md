@@ -47,7 +47,7 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 ![alt text](https://github.com/umeaimanMerchant/Taxi-Fare-prediction/blob/main/Images/Passenger%20vs%20tip%20amt.PNG "Tip Amount V/S Passengers")
 ![alt text](https://github.com/umeaimanMerchant/Taxi-Fare-prediction/blob/main/Images/weekday%20vs%20amt%20and%20distance.PNG "Weekdays V/S Total Amount & Tip Amount")
 
-# Part 3: Statistical analysis or Hypothesis Testing
+## Part 3: Statistical analysis or Hypothesis Testing
 
 **Purpose** -to prepare, create, and analyze A/B tests, that aims to find ways to generate more revenue for taxi cab drivers.
 
@@ -61,7 +61,7 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 
 **Goal** -to build a multiple linear regression model and evaluate the model
 
-# Part 5: Build a machine learning model 
+## Part 5: Build a machine learning model 
 
 **Purpose**- to find ways to generate more revenue for taxi cab drivers.  
   
