@@ -65,7 +65,7 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 
 **Purpose**- to find ways to generate more revenue for taxi cab drivers.  
   
-**Goal**- to predict whether or not a customer is a generous tipper.  (think?)
+**Goal**- to predict whether or not a customer is a generous tipper. (tip amount will increase total trip profit)
 
 **Results**- F1 score
 
